@@ -14,4 +14,17 @@ Contributors:
 Free use of the source code for academic research purposes is hereby granted in perpetuity. Use for commercial purposes is allowable after asking the author, Dr Mohamed Amine Ferrag, who has asserted his right under the Copyright. 
 
 
-Please feel free to contact the projecr leader Dr. M. A. Ferrag (mohamed.amine.ferrag@gmail.com) for free use of the source code for academic research purposes or commercial purposes.
+For the free use of the source code for academic research purposes or commercial purposes, please contact the project leader Dr. Mohamed Amine Ferrag, on his email: mohamed.amine.ferrag@gmail.com or ferrag.mohamedamine@univ-guelma.dz
+
+More information about Dr. Mohamed Amine Ferrag is available at:
+
+https://sites.google.com/site/mohamedamineferrag/
+https://www.linkedin.com/in/Mohamed-Amine-Ferrag
+https://dblp.uni-trier.de/pid/142/9937.html
+https://www.researchgate.net/profile/Mohamed_Amine_Ferrag
+https://scholar.google.fr/citations?user=IkPeqxMAAAAJ&hl=fr&oi=ao
+https://www.scopus.com/authid/detail.uri?authorId=56115001200
+https://publons.com/researcher/1322865/mohamed-amine-ferrag/
+https://orcid.org/0000-0002-0632-3172
+
+Last Updated: 19 Sept. 2021
