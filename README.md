@@ -14,4 +14,4 @@ Contributors:
 Free use of the source code for academic research purposes is hereby granted in perpetuity. Use for commercial purposes is allowable after asking the author, Dr Mohamed Amine Ferrag, who has asserted his right under the Copyright. 
 
 
-Please feel free to contact the projecr leader Dr. M. A. Ferrag (mohamed.amine.ferrag@gmail.com), if you need any further information.
+Please feel free to contact the projecr leader Dr. M. A. Ferrag (mohamed.amine.ferrag@gmail.com) for free use of the source code for academic research purposes.
