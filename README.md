@@ -3,5 +3,13 @@ In this project [1], we present a comprehensive study with an experimental analy
 
 [1] Mohamed Amine Ferrag, Othmane Friha, Leandros Maglaras, Helge Janicke, Lei Shu, "Federated Deep Learning for Cyber Security in the Internet of Things: Concepts, Applications, and Experimental Analysis" under review by IEEE Access journal.
 
+Contributors:
+1. Department of Computer Science, Guelma University, B.P. 401, 24000, Algeria
+2. Networks and Systems Laboratory (LRS), Badji Mokhtar-Annaba University, B.P.12, Annaba 23000, Algeria
+3. School of Computer Science and Informatics, De Montfort University, Leicester, UK
+4. Cyber Security Cooperative Research Centre (CSCRC) and Edith Cowan University, Perth, WA 6027, Australia
+5. College of Engineering, Nanjing Agricultural University, Nanjing, China
+6. School of Engineering, University of Lincoln, Lincoln, UK
+
 
 Please feel free to contact me (mohamed.amine.ferrag@gmail.com), if you need any further information.
