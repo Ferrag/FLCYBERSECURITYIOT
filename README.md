@@ -2,7 +2,9 @@ In this project [J1], we present a comprehensive study with an experimental anal
 
 We performed our experiments on Google Colaboratory using well-known libraries, including NumPy, Pandas, TensorFlow, and Keras. There are different open-source federated learning frameworks that can be used for simulating and experimenting the federated learning algorithms, including, 1) Federated Learning and Differential Privacy (FL\&DP) framework (developed by Sherpa.AI), 2) PySyft (developed by OpenMined), 3) Paddle Federated Learning (PFL) (developed by Baidu), 4) Federated AI Technology Enabler (FATE) (developed by Webank’s AI department), and 5) TensorFlow Federated (TFF) (developed by Google Inc). We chose the Sherpa.AI framework for its advantages compared to other frameworks.<br />
 
-[J1] Mohamed Amine Ferrag(1), Othmane Friha(2), Leandros Maglaras(3), Helge Janicke (4), Lei Shu (5), "Federated Deep Learning for Cyber Security in the Internet of Things: Concepts, Applications, and Experimental Analysis" under review by IEEE Access journal. <br />
+[J1] Mohamed Amine Ferrag(1), Othmane Friha(2), Leandros Maglaras(3), Helge Janicke (4), Lei Shu (5), "Federated Deep Learning for Cyber Security in the Internet of Things: Concepts, Applications, and Experimental Analysis" IEEE Access, Accepted, October 2021 (IF:3.37). <br />
+
+Link to paper : https://ieeexplore.ieee.org/document/9562531
 
 Contributors:<br />
 (1) Department of Computer Science, Guelma University, B.P. 401, 24000, Algeria<br />
@@ -28,4 +30,4 @@ https://www.scopus.com/authid/detail.uri?authorId=56115001200 <br />
 https://publons.com/researcher/1322865/mohamed-amine-ferrag/ <br />
 https://orcid.org/0000-0002-0632-3172 <br />
 
-Last Updated: 19 Sept. 2021 <br />
+Last Updated: 06 Oct. 2021 <br />
